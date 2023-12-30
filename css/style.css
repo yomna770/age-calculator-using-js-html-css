@@ -1,0 +1,8 @@
+body{
+    background-color: rgba(0, 255, 255, 0.63);
+}
+span{
+    color: blue;
+    font-size: 35;
+    font-weight: 500;
+}
